@@ -1,0 +1,3 @@
+[submodule "src/LangStack"]
+	path = src/LangStack
+	url = https://github.com/zhuyanxie/LangStack.git
